@@ -1,0 +1,92 @@
+[
+    {
+        "id": "gaardbrug",
+        "title": "Gaardbrug",
+        "time": 0,
+        "x": 112,
+        "y": 320,
+        "description": "De route begint bij de Gaardbrug: hier komt de Oudegracht in het verhaal van de stad en van de mensen die hier leefden en werkten.",
+        "sources": [
+            {
+                "label": "Archiefbeeld",
+                "href": "#"
+            },
+            {
+                "label": "Kaart 1929",
+                "href": "#"
+            }
+        ]
+    },
+    {
+        "id": "damstraat",
+        "title": "Damstraat",
+        "time": 12,
+        "x": 224,
+        "y": 270,
+        "description": "Op deze plek ligt een druk knooppunt van handel, verkeer en stadsleven. De gracht was niet alleen een waterweg, maar ook een plek van ontmoeting.",
+        "sources": [
+            {
+                "label": "Foto collectie",
+                "href": "#"
+            },
+            {
+                "label": "Verhaal van de buurt",
+                "href": "#"
+            }
+        ]
+    },
+    {
+        "id": "kleine-brug",
+        "title": "Kleine brug",
+        "time": 26,
+        "x": 330,
+        "y": 210,
+        "description": "De aanwezigheid van bruggen en steigers laat zien hoe dicht de gracht verbonden was met het dagelijks leven en de economische activiteit van Utrecht.",
+        "sources": [
+            {
+                "label": "Documenten",
+                "href": "#"
+            },
+            {
+                "label": "Historische atlas",
+                "href": "#"
+            }
+        ]
+    },
+    {
+        "id": "ontmoeting",
+        "title": "Plek van ontmoeten",
+        "time": 42,
+        "x": 445,
+        "y": 186,
+        "description": "Langs de gracht stonden cafés, winkels en werkplaatsen. Dit was de plek waar het stadsleven zich niet alleen op het water, maar ook aan de oever afspeelde.",
+        "sources": [
+            {
+                "label": "Fotoreeks",
+                "href": "#"
+            },
+            {
+                "label": "Bronvermelding",
+                "href": "#"
+            }
+        ]
+    },
+    {
+        "id": "bezembrug",
+        "title": "Bezembrug",
+        "time": 58,
+        "x": 622,
+        "y": 124,
+        "description": "De route eindigt bij de Bezembrug. Hier toont de Oudegracht hoe de gracht door de eeuwen heen een steeds veranderende, maar immer belangrijke plek in Utrecht is gebleven.",
+        "sources": [
+            {
+                "label": "Archieffilm",
+                "href": "#"
+            },
+            {
+                "label": "Locatiekaart",
+                "href": "#"
+            }
+        ]
+    }
+]
